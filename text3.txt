@@ -1,1 +1,2 @@
 This is a file from the branch "new-branch1"
+Now is a modified one
